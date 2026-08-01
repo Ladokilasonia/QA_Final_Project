@@ -53,10 +53,3 @@ API List: https://automationexercise.com/api_list
 
 ---
 
- Team Members
-
-- Lado Kilasonia  
-- Giorgi Imerlishvili  
-- Luka Ardazishvili  
-- Sandro Bibiluri
-------------------------------
